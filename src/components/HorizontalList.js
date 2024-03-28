@@ -6,6 +6,7 @@ import {useDispatch, useSelector} from 'react-redux';
 import {addData} from '../reduxToolkit/Slice';
 import {addCatNext} from '../reduxToolkit/Slice7';
 import databse from '../components/db';
+import {addCat} from '../reduxToolkit/category';
 
 const HorizontalList = ({items}) => {
   const disapatch = useDispatch();
@@ -20,6 +21,8 @@ const HorizontalList = ({items}) => {
       const data = await databse(table, cat, false, 0);
       disapatch(addData(data));
       disapatch(addCatNext({items, id: parseInt(id) + 1}));
+      disapatch(addCat(cat));
+
       navigation.navigate(wr ? 'question' : 'details', {
         page: true,
         cat,

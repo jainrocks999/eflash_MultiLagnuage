@@ -422,9 +422,10 @@ const styles = StyleSheet.create({
     alignSelf: 'center',
   },
   imgContainer: {
-    height: height,
+    height: '80%',
     marginTop: '1%',
-    // marginLeft: 8,
+    alignItems: 'center',
+    justifyContent: 'center',
   },
   btnContainer: {
     position: 'absolute',

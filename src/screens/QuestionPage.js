@@ -39,7 +39,7 @@ const requestOption = {
   keywords: ['fashion', 'clothing'],
 };
 const QuestionPage = props => {
-  const cat = props.route.params.cat;
+  const cat = useSelector(state => state.cat);
   const table = useSelector(state => state.table);
   const path = Platform.select({
     android: 'asset:/files/',
@@ -191,7 +191,6 @@ const QuestionPage = props => {
   };
 
   const IsPlay = async (item, index) => {
-    //  console.log('isPlay is fired')
     let isReady = await setupPlayer();
     await TrackPlayer.reset();
     setCount(count + 1);
@@ -204,26 +203,20 @@ const QuestionPage = props => {
         url: `${soundPath}clickon.mp3`,
         title: item.title,
         artist: 'eFlashApps',
-
         duration: null,
       }),
       (track2 = {
         url: `${soundPath}${item.sound}`,
         title: item.title,
         artist: 'eFlashApps',
-        // Load artwork from the file system:
-        //  artwork: require('../../asset2/clickon.mp3'),
         duration: null,
       }),
     ];
-
     if (isReady) {
       await TrackPlayer.add(arr);
       await TrackPlayer.play();
     }
-
     setSong(arr);
-    console.log('called');
   };
 
   const [rendomdat, setrandomDat] = useState(data.slice(0, 4));

@@ -8,6 +8,7 @@ import Slicer6 from './Slicer6';
 import Slicer7 from './Slice7';
 import backSound from './backSound';
 import tableSlice from './tableSlice';
+import cateSlice from './category';
 
 const myStore = configureStore({
   reducer: {
@@ -20,6 +21,7 @@ const myStore = configureStore({
     catdata: Slicer7,
     backsound: backSound,
     table: tableSlice,
+    cat: cateSlice,
   },
 });
 export default myStore;
