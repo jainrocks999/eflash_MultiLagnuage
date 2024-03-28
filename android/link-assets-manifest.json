@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/KaiseiTokumin-Bold.ttf",
+      "sha1": "e0dfccf3cb00a0005e714ed06c659ce994132b79"
+    },
+    {
+      "path": "src/fonts/KaiseiTokumin-ExtraBold.ttf",
+      "sha1": "fcf367f0b4b99ca00099c053d7fcc54d9cce683d"
+    },
+    {
+      "path": "src/fonts/KaiseiTokumin-Medium.ttf",
+      "sha1": "2bc89d338e743a748fd357eb69696167b7473ac5"
+    },
+    {
+      "path": "src/fonts/KaiseiTokumin-Regular.ttf",
+      "sha1": "362feee6fc5a9a5464efe35f9a26d63450eb9ca0"
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+tbl_spanish
+{"actualsound": "0", "category": "Alphabet", "id": 514, "image": "ll.jpg", "language_name": "es", "sort": 14, "sound": "ll.mp3", "title": "ll de llave", "videoname": null, "word": "II"}
+{"actualsound": "0", "category": "BodyParts", "id": 277, "image": "belly-Button.jpg", "language_name": "es", "sort": 24, "sound": "belly button.mp3", "title": "Ombligo", "videoname": null, "word": "Belly Button"}
+ {"actualsound": "0", "category": "HomeItems", "id": 227, "image": "plier.jpg", "language_name": "es", "sort": 2, "sound": "nail clipper.mp3", "title": "Alicate", "videoname": null, "word": "Nail Clipper"}
+{"actualsound": "0", "category": "HomeItems", "id": 217, "image": "Tooth.png", "language_name": "es", "sort": 12, "sound": "hairbrush.mp3", "title": "Cepillo de dientes", "videoname": null, "word": "Tooth Brush"}
+ {"actualsound": "act_biplane.mp3", "category": "Transport", "id": 244, "image": "bi_plane.jpg", "language_name": "es", "sort": 13, "sound": "bi-plane.mp3", "title": "Biplano", "videoname": "biplane", "word": "Bi-plane"}
+
+ french:
+{"actualsound": "0", "category": "Alphabet", "id": 328, "image": "w.png", "language_name": "fre/fra", "sort": 0, "sound": "w_for_watermelon.mp3", "title": "W", "videoname": "", "word": "W pour Wagon"}
+{"actualsound": "act-bird.mp3", "category": "Animal", "id": 86, "image": "bird.jpg", "language_name": "fre/fra", "sort": 0, "sound": "bird.mp3", "title": "Bird", "videoname": "", "word": "Oiseau"}
+{"actualsound": "0", "category": "Animal", "id": 4, "image": "dinosaur.jpg", "language_name": "fre/fra", "sort": 0, "sound": "dinosaur.mp3", "title": "Dinosaur", "videoname": "", "word": "Dinosaure"}
+{"actualsound": "act-duck.mp3", "category": "Animal", "id": 102, "image": "duck.jpg", "language_name": "fre/fra", "sort": 0, "sound": "duck.mp3", "title": "Duck", "videoname": "", "word": "Canard"}
+{"actualsound": "0", "category": "Animal", "id": 104, "image": "fish.jpg", "language_name": "fre/fra", "sort": 0, "sound": "fish.mp3", "title": "Fish", "videoname": "", "word": "Poisson"}
+{"actualsound": "act-horse.mp3", "category": "Animal", "id": 90, "image": "horse.jpg", "language_name": "fre/fra", "sort": 0, "sound": "horse.mp3", "title": "Horse", "videoname": "", "word": "Cheval"}
+{"actualsound": "0", "category": "Animal", "id": 143, "image": "hummingbird.jpg", "language_name": "fre/fra", "sort": 0, "sound": "hummingbird.mp3", "title": "Hummingbird", "videoname": "", "word": "Colibri"}
+{"actualsound": "0", "category": "Animal", "id": 122, "image": "octopus.jpg", "language_name": "fre/fra", "sort": 0, "sound": "octopus.mp3", "title": "Octopus", "videoname": "", "word": "Pieuvre"}
+{"actualsound": "act_polar_bear.mp3", "category": "Animal", "id": 130, "image": "polarbear.jpg", "language_name": "fre/fra", "sort": 0, "sound": "polar_bear.mp3", "title": "Polar Bear", "videoname": "", "word": "Ours Polaire"}
+{"actualsound": "0", "category": "Animal", "id": 137, "image": "seahorse.jpg", "language_name": "fre/fra", "sort": 0, "sound": "sea horse.mp3", "title": "Sea Horse", "videoname": "", "word": "Hippocampe"}
+{"actualsound": "0", "category": "Animal", "id": 144, "image": "starfish.jpg", "language_name": "fre/fra", "sort": 0, "sound": "starfish.mp3", "title": "Star Fish", "videoname": "", "word": "Etoile de mer"}
+{"actualsound": "act_harmonica.mp3", "category": "ArtMusic", "id": 429, "image": "harmonica.jpg", "language_name": "fre/fra", "sort": 0, "sound": "harmonica.mp3", "title": "Harmonica", "videoname": "", "word": "Harmonica"}
+{"actualsound": "0", "category": "ArtMusic", "id": 418, "image": "penone.jpg", "language_name": "fre/fra", "sort": 0, "sound": "pen.mp3", "title": "Pen", "videoname": "", "word": "Stylo"}
+{"actualsound": "0", "category": "BodyParts", "id": 277, "image": "bellyButton.jpg", "language_name": "fre/fra", "sort": 0, "sound": "belly button.mp3", "title": "Belly Button", "videoname": "", "word": "Nombril"}
+{"actualsound": "0", "category": "BodyParts", "id": 285, "image": "fingernails.jpg", "language_name": "fre/fra", "sort": 0, "sound": "fingernails.mp3", "title": "Finger Nails", "videoname": "", "word": "Ongles"}
+{"actualsound": "0", "category": "Clothing", "id": 179, "image": "bathingsuit.jpg", "language_name": "fre/fra", "sort": 0, "sound": "bathing suit.mp3", "title": "Bathing Suit", "videoname": "", "word": "Maillot de bain"}
+{"actualsound": "0", "category": "Clothing", "id": 154, "image": "blanket.jpg", "language_name": "fre/fra", "sort": 0, "sound": "blanket.mp3", "title": "Blanket", "videoname": "", "word": "Couverture"}
+{"actualsound": "0", "category": "Clothing", "id": 173, "image": "sunglasses.jpg", "language_name": "fre/fra", "sort": 0, "sound": "sunglasses.mp3", "title": "Sun Glasses", "videoname": "", "word": "Lunettes de soleil"}
+{"actualsound": "0", "category": "Clothing", "id": 176, "image": "tshirt.jpg", "language_name": "fre/fra", "sort": 0, "sound": "t shirt.mp3", "title": "T-shirt", "videoname": "", "word": "T-shirt"}
+{"actualsound": "0", "category": "Colors", "id": 30, "image": "biege.png", "language_name": "fre/fra", "sort": 0, "sound": "beige.mp3", "title": "Beige", "videoname": "", "word": "Beige"}
+
+{"actualsound": "0", "category": "Colors", "id": 28, "image": "gray.png", "language_name": "fre/fra", "sort": 0, "sound": "grey.mp3", "title": "Grey", "videoname": "", "word": "Gris"}
+{"actualsound": "0", "category": "Colors", "id": 22, "image": "orangeone.jpg", "language_name": "fre/fra", "sort": 0, "sound": "orangeone.mp3", "title": "Orange", "videoname": "", "word": "Orange"}
+{"actualsound": "0", "category": "Food", "id": 49, "image": "baguette.jpg", "language_name": "fre/fra", "sort": 0, "sound": "baguette.mp3", "title": "Baguette", "videoname": "", "word": "Baguette"}
+{"actualsound": "0", "category": "Food", "id": 43, "image": "bellpepper.jpg", "language_name": "fre/fra", "sort": 0, "sound": "bell pepper.mp3", "title": "Bell Pepper", "videoname": "", "word": "Poivron"}
+{"actualsound": "0", "category": "Food", "id": 68, "image": "buche.jpg", "language_name": "fre/fra", "sort": 0, "sound": "buche.mp3", "title": "Buche", "videoname": "", "word": "Buche"}
+{"actualsound": "0", "category": "Food", "id": 72, "image": "crepe.jpg", "language_name": "fre/fra", "sort": 0, "sound": "crepe.mp3", "title": "Crepe", "videoname": "", "word": "Crepe"}
+{"actualsound": "0", "category": "Food", "id": 77, "image": "croissant.jpg", "language_name": "fre/fra", "sort": 0, "sound": "croissant.mp3", "title": "Croissant", "videoname": "", "word": "Croissant"}
+{"actualsound": "0", "category": "Food", "id": 78, "image": "eclaire.jpg", "language_name": "fre/fra", "sort": 0, "sound": "eclaire.mp3", "title": "Eclaire", "videoname": "", "word": "Eclaire"}
+{"actualsound": "0", "category": "Food", "id": 65, "image": "greenbeans.jpg", "language_name": "fre/fra", "sort": 0, "sound": "green beans.mp3", "title": "Green Beans", "videoname": "", "word": "Haricots Verts"}
+{"actualsound": "0", "category": "Food", "id": 52, "image": "icecream.jpg", "language_name": "fre/fra", "sort": 0, "sound": "ice cream.mp3", "title": "Ice cream", "videoname": "", "word": "Glasse"}
+{"actualsound": "0", "category": "Food", "id": 8, "image": "juice.jpg", "language_name": "fre/fra", "sort": 0, "sound": "juice.mp3", "title": "Juice", "videoname": "", "word": "Jus"}
+{"actualsound": "0", "category": "Food", "id": 11, "image": "peanut.jpg", "language_name": "fre/fra", "sort": 0, "sound": "peanut.mp3", "title": "Peanut", "videoname": "", "word": "Cacahouete"}
+{"actualsound": "0", "category": "Food", "id": 79, "image": "raisins.jpg", "language_name": "fre/fra", "sort": 0, "sound": "raisins.mp3", "title": "Raisins", "videoname": "", "word": "Raisins"}
+{"actualsound": "0", "category": "Food", "id": 80, "image": "tea.jpg", "language_name": "fre/fra", "sort": 0, "sound": "tea.mp3", "title": "Tea", "videoname": "", "word": "The"}
+{"actualsound": "0", "category": "HomeItems", "id": 212, "image": "dinningtable.jpg", "language_name": "fre/fra", "sort": 0, "sound": "dining table.mp3", "title": "Dinning Table", "videoname": "", "word": "Table à manger"}
+{"actualsound": "0", "category": "HomeItems", "id": 430, "image": "fryingpan.jpg", "language_name": "fre/fra", "sort": 0, "sound": "frying pan.mp3", "title": "Frying Pan", "videoname": "", "word": "Poêle à frire"}
+{"actualsound": "0", "category": "HomeItems", "id": 217, "image": "hairbrush.jpg", "language_name": "fre/fra", "sort": 0, "sound": "hairbrush.mp3", "title": "Hair Brush", "videoname": "", "word": "Brosse à cheveux"}
+{"actualsound": "0", "category": "HomeItems", "id": 239, "image": "teddybear.jpg", "language_name": "fre/fra", "sort": 0, "sound": "teddy bear.mp3", "title": "Teddy Bear", "videoname": "", "word": "Nounours"}
+{"actualsound": "0", "category": "OutdoorItems", "id": 368, "image": "balloon.jpg", "language_name": "fre/fra", "sort": 0, "sound": "balloon.mp3", "title": "Balloon", "videoname": "", "word": "Ballon"}
+{"actualsound": "0", "category": "OutdoorItems", "id": 362, "image": "batone.jpg", "language_name": "fre/fra", "sort": 0, "sound": "batone.mp3", "title": "Bat", "videoname": "", "word": "Batte"}
+{"actualsound": "0", "category": "OutdoorItems", "id": 365, "image": "tobbogan.gif", "language_name": "fre/fra", "sort": 0, "sound": "tobbogan.mp3", "title": "Tobbogan", "videoname": "", "word": "Tobogan"}
+{"actualsound": "0", "category": "Transport", "id": 250, "image": "doubledeckerbus.jpg", "language_name": "fre/fra", "sort": 0, "sound": "double decker bus.mp3", "title": "Double Decker Bus", "videoname": "", "word": "Bus a deux etages"}
+{"actualsound": "0", "category": "Transport", "id": 249, "image": "dumptruck.jpg", "language_name": "fre/fra", "sort": 0, "sound": "dump truck.mp3", "title": "Dump Truck", "videoname": "", "word": "Tombereau"}
+{"actualsound": "act_fire_engine.mp3", "category": "Transport", "id": 251, "image": "fireengine.jpg", "language_name": "fre/fra", "sort": 0, "sound": "fire engine.mp3", "title": "Fire Engine", "videoname": "", "word": "Camion de pompiers"}
+{"actualsound": "0", "category": "Transport", "id": 252, "image": "hangglider.jpg", "language_name": "fre/fra", "sort": 0, "sound": "hang glider.mp3", "title": "Hang Glider", "videoname": "", "word": "Deltaplane"}
+{"actualsound": "0", "category": "Transport", "id": 256, "image": "policecar.jpg", "language_name": "fre/fra", "sort": 0, "sound": "police car.mp3", "title": "Police Car", "videoname": "", "word": "Voiture de police"}
+{"actualsound": "act-racing_car.mp3", "category": "Transport", "id": 273, "image": "racingcar.jpg", "language_name": "fre/fra", "sort": 0, "sound": "racing_car.mp3", "title": "Racing Car", "videoname": "", "word": "Voiture de course"}
+{"actualsound": "act_school_bus.mp3", "category": "Transport", "id": 248, "image": "schoolbus.jpg", "language_name": "fre/fra", "sort": 0, "sound": "school_bus.mp3", "title": "School  Bus", "videoname": "", "word": "Autobus scolaire"}
+{"actualsound": "0", "category": "Transport", "id": 258, "image": "snowplough.jpg", "language_name": "fre/fra", "sort": 0, "sound": "snow plow.mp3", "title": "Snow Plough", "videoname": "", "word": "Chasse-neige"}
+{"actualsound": "0", "category": "Transport", "id": 259, "image": "sportscar.jpg", "language_name": "fre/fra", "sort": 0, "sound": "sports car.mp3", "title": "Sports Car", "videoname": "", "word": "Voiture de sport"}
+{"actualsound": "0", "category": "Transport", "id": 261, "image": "trafficlight.jpg", "language_name": "fre/fra", "sort": 0, "sound": "traffic light.mp3", "title": "Traffic Light", "videoname": "", "word": "Feu de circulation"}
+{"actualsound": "0", "category": "Transport", "id": 257, "image": "van.jpg", "language_name": "fre/fra", "sort": 0, "sound": "van.mp3", "title": "Van", "videoname": "", "word": "Camionette"}
+
+
+french::"
+{"actualsound": "act-horse.mp3", "category": "Animal", "id": 90, "image": "horse.jpg", "language_name": "fre/fra", "sort": 0, "sound": "horse.mp3", "title": "Horse", "videoname": "", "word": "Cheval"}
+{"actualsound": "0", "category": "Food", "id": 11, "image": "peanut.jpg", "language_name": "fre/fra", "sort": 0, "sound": "peanut.mp3", "title": "Peanut", "videoname": "", "word": "Cacahouete"}
+
+
+italian:
+ {"actualsound": "act-chicken.mp3", "category": "Animal", "id": 95, "image": "chicken.jpg", "language_name": "it", "sort": 0, "sound": "chicken.mp3", "title": "Chicken", "videoname": "", "word": "Gallina"}
+ {"actualsound": "act-horse.mp3", "category": "Animal", "id": 90, "image": "horse.jpg", "language_name": "it", "sort": 0, "sound": "horse.mp3", "title": "Horse", "videoname": "", "word": "Cavallo"}
+
+ japanese:
+ {"actualsound": "act-chicken.mp3", "category": "Animal", "id": 95, "image": "chicken.jpg", "language_name": "", "sort": 0, "sound": "chicken.mp3", "title": "Chicken", "videoname": "", "word": "鶏"}
+ {"actualsound": "0", "category": "Animal", "id": 121, "image": "nest.jpg", "language_name": "", "sort": 0, "sound": "nest.mp3", "title": "Nest", "videoname": "", "word": "巣"}
+ {"actualsound": "0", "category": "BodyParts", "id": 275, "image": "arm.jpg", "language_name": "", "sort": 0, "sound": "arm.mp3", "title": "Arm", "videoname": "", "word": "腕"}
+  {"actualsound": "0", "category": "Food", "id": 11, "image": "peanut.jpg", "language_name": "", "sort": 0, "sound": "peanut.mp3", "title": "Peanut", "videoname": "", "word": "ピーナッツ"}
